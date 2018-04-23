@@ -4,4 +4,4 @@ This is an example project for [KTerminal](https://github.com/heatherhaks/ktermi
 
 ## Screenshot of running example
 
-![screenshot](https://i.imgur.com/G78DhK0.png)
+![screenshot](https://i.imgur.com/CQiJlpN.gif)

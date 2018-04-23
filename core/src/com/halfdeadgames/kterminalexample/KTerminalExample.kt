@@ -46,7 +46,7 @@ class KTerminalExample : ApplicationAdapter() {
 
         demo(Gdx.graphics.deltaTime, 0.25f)
 
-
+        kTerminal.update()
 
         batch.use {
             it.draw(kTerminal.texture, (V_WIDTH - kTerminal.texture.width)/2f, (V_HEIGHT - kTerminal.texture.height)/2f)

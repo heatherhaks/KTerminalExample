@@ -56,7 +56,7 @@ class KTerminal(width: Int,
             }
         }
 
-    lateinit var texture: Texture
+    var texture: Texture
 
     init {
         this.scale = scale
